@@ -1,0 +1,3 @@
+rootProject.name = 'reproduce-gradle-test-intellij'
+
+include 'subtree'
